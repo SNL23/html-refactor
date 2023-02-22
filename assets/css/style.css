@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* It tells the header color, background color, font and font size and the laypout */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,16 +40,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Gives the hyperlink text it's color  */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Gives the paragraph its font size */
 p {
     font-size: 16px;
 }
-
+/* Landing page Hero image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*  */
 .float-left {
     float: left;
     margin-right: 25px;
